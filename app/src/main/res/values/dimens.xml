@@ -1,0 +1,16 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="txt_from_size">16sp</dimen>
+    <dimen name="txt_subject_size">15sp</dimen>
+    <dimen name="txt_message_size">14sp</dimen>
+
+    <dimen name="icon_width_height">40dp</dimen>
+    <dimen name="icon_text_size">20sp</dimen>
+    <dimen name="timestamp_size">12sp</dimen>
+    <dimen name="icon_star_width_height">24dp</dimen>
+
+
+    <integer name="flip_time_full">500</integer>
+    <integer name="flip_time_half">200</integer>
+</resources>

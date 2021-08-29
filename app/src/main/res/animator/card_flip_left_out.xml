@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <objectAnimator
+        android:valueFrom="0"
+        android:valueTo="180"
+        android:propertyName="rotationY"
+        android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+        android:duration="@integer/flip_time_full"
+        />
+
+    <objectAnimator
+        android:valueFrom="1.0"
+        android:valueTo="0.0"
+        android:startOffset="@integer/flip_time_half"
+        android:propertyName="alpha"
+        android:duration="1"
+        android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+    />
+
+</set>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Email</string>
+     <string name="title_activity_main">Mailbox</string>
+    <string name="welcome">Welcome</string>
+    <string name="message">Hi. this is a sample for android app. please read this message</string>
+    <string name="todo">TODO</string>
+    <string name="john">John</string>
+
+</resources>

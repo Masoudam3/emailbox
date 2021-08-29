@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d6114c</color>
+    <color name="colorPrimaryDark">#87022f</color>
+    <color name="colorAccent">#569cca</color>
+
+    <color name="txt_from_color">#000000</color>
+    <color name="txt_subject_color">#222222</color>
+    <color name="txt_message_color">@android:color/darker_gray</color>
+
+    <color name="bg_circle_default">#666666</color>
+    <color name="timestamp_color">#4192ef</color>
+    <color name="star_tint_default">#777777</color>
+    <color name="star_tint_selected">#e9166a</color>
+    <color name="row_selected">#dfdfdf</color>
+    <color name="action_mode_bg">#808080</color>
+</resources>
